@@ -43,6 +43,8 @@ y el total de juntas realizadas en el mes dos
 
 y el total de juntas realizadas en el mes tres
 
+![](jira.jpg)
+
 ### APROXIMACIÓN CASO DE USO ###
 
 ![](aprox.jpg)
