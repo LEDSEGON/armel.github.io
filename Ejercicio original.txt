@@ -1,0 +1,48 @@
+Ejercicio base:
+
+En la labor como programador de software he sido elegido para el desarrollo de una aplicación para el Área de Medicina Laboral que desea calcular el promedio de realización de las juntas médico laborales hechas por el grupo medico laboral Bogotá en el primer trimestre del año en curso. En esta área se audita la productividad en el ámbito nacional, verificando las metas, promedios y efectividad en cada trimestre, semestre y año. Como información básica de cada grupo, se debe registrar el número total de las juntas realizadas en el trimestre, el nombre del jefe encargado y ciudad.
+
+Aclaraciones:
+
+* Se supondrá que la aplicación solo se requiere para calcular el promedio de realización de las juntas.
+
+*No se realiza validación, ni se verifica calidad en los datos ingresados.
+
+
+-----------------------------------------------------
+
+Yo como auditor de medicina laboral,
+
+Quiero poder capturar la productividad de tres meses de un grupo médico laboral y obtener el promedio de estas,
+
+Para calcular el promedio de efectividad del grupo médico laboral.
+
+
+
+Escenarios
+
+Escenario 1: Ingresar la información de las juntas realizadas por un grupo médico laboral
+
+
+
+Given que soy el jefe del grupo médico Laboral Bogotá
+
+y que ingreso correctamente mi cédula
+
+y que ingreso correctamente mi nombre completo
+
+y que ingreso correctamente la totalidad de las juntas realizadas en el mes
+
+
+
+When seleccione la opción Calcular Promedio
+
+
+
+Then debo poder guardar la información del jefe del grupo como la cédula 
+
+y el nombre completo
+
+y el total de juntas realizadas en el mes uno
+
+y el total de juntas realizadas en el mes dos
